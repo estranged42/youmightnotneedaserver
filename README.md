@@ -20,5 +20,7 @@ Notes for IT Summit Talk about Serverless
 * Post directly to SQS with cURL
 * Arduino Feed
 * Docker + Fargate
+* RDS Aurora thingie
+* Elasticache
 
 
